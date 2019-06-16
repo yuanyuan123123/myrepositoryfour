@@ -5,6 +5,6 @@ package three;
  */
 public class MyThreeTest {
     public static void main(String args[]){
-        System.out.print("这是three包下的MyThreeTest类的输出语句！");
+        System.out.print("这是three包下的MyThreeTest类的输出语句！Hello");
     }
 }
