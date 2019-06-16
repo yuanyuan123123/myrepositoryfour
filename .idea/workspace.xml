@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7809dce2-ae84-41b7-a2e2-9ead4ad22acd" name="Default" comment="这是myrepositoryfour工程修改MyThreeTest类、添加anotherthree包、ThreeTest类后的提交">
-      <change afterPath="$PROJECT_DIR$/src/anotherthree/ThreeTest.java" afterDir="false" />
+    <list default="true" id="7809dce2-ae84-41b7-a2e2-9ead4ad22acd" name="Default" comment="这是myrepositoryfour工程修改MyFiveTest类、添加anotherfour包、FourTest类后的提交">
+      <change afterPath="$PROJECT_DIR$/src/anotherfive/FiveTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/MyFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/four/MyFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/six/MySixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/six/MySixTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,49 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/anotherthree/ThreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/three/MyThreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/two/TwoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/four/MyFourTest.java">
+        <entry file="file://$PROJECT_DIR$/src/five/MyFiveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="120">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +52,9 @@
         <option value="$PROJECT_DIR$/src/three/MyThreeTest.java" />
         <option value="$PROJECT_DIR$/src/four/MyFourTest.java" />
         <option value="$PROJECT_DIR$/src/five/MyFiveTest.java" />
+        <option value="$PROJECT_DIR$/src/anotherfour/FourTest.java" />
+        <option value="$PROJECT_DIR$/src/six/MySixTest.java" />
+        <option value="$PROJECT_DIR$/src/anotherfive/FiveTest.java" />
       </list>
     </option>
   </component>
@@ -114,18 +82,6 @@
               <item name="myrepositoryfour" type="b2602c69:ProjectViewProjectNode" />
               <item name="myrepositoryfour" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myrepositoryfour" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myrepositoryfour" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="anotherthree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myrepositoryfour" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myrepositoryfour" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="four" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,11 +284,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560670886461</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="这是myrepositoryfour工程修改MyThreeTest类、添加anotherthree包、ThreeTest类后的提交">
+      <created>1560671156314</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560671156314</updated>
+    </task>
+    <task id="LOCAL-00008" summary="这是myrepositoryfour工程修改MyFiveTest类、添加anotherfour包、FourTest类后的提交">
+      <created>1560671979573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560671979573</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6344000" />
+    <option name="totallyTimeSpent" value="8517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -345,6 +315,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Nl-Palette" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -354,7 +325,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32786885" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -406,24 +377,14 @@
     <MESSAGE value="这是myrepositoryfour工程添加three包、MyThreeTest类后的提交" />
     <MESSAGE value="这是myrepositoryfour工程添加four包、MyFourTest类后的提交" />
     <MESSAGE value="这是myrepositoryfour工程修改MyThreeTest类、添加anotherthree包、ThreeTest类后的提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是myrepositoryfour工程修改MyThreeTest类、添加anotherthree包、ThreeTest类后的提交" />
+    <MESSAGE value="这是myrepositoryfour工程修改MyFiveTest类、添加anotherfour包、FourTest类后的提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是myrepositoryfour工程修改MyFiveTest类、添加anotherfour包、FourTest类后的提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/my/TestTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/TwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,17 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/four/MyFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/my/AddOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -454,13 +404,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/five/MyFiveTest.java">
+    <entry file="file://$PROJECT_DIR$/src/four/MyFourTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/two/TwoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -472,6 +433,45 @@
           <folding>
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anotherthree/ThreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="1" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/six/MySixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anotherfour/FourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anotherfive/FiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/five/MyFiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>

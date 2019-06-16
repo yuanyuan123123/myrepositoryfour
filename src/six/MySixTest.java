@@ -6,6 +6,6 @@ package six;
 public class MySixTest {
 
     public static void main(String args[]){
-        System.out.print("这是six包下的MySixTest类的输出语句！");
+        System.out.print("这是six包下的MySixTest类的输出语句！Hello Six");
     }
 }
