@@ -8,7 +8,7 @@ package anotherkey;
  */
 public class TestThree {
     public static void main(String args[]){
-        System.out.print("这是another包下的TestThree类的输出语句！");
+        System.out.print("这是another包下的TestThree类的输出语句！Hello TestThree");
 
     }
 }
