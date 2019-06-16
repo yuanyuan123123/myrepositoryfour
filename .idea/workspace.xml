@@ -13,8 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -77,7 +76,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,13 +102,39 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myrepositoryfour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myrepositoryfour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myrepositoryfour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myrepositoryfour" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myrepositoryfour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myrepositoryfour" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="anotherthree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myrepositoryfour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myrepositoryfour" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="four" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -288,11 +312,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560668598314</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="这是myrepositoryfour工程修改MyThreeTest类、添加anotherthree包、ThreeTest类后的提交">
+      <created>1560670623003</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560670623003</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6080000" />
+    <option name="totallyTimeSpent" value="6054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -365,7 +396,8 @@
     <MESSAGE value="这是myrepositoryfour工程添加two包、TwoTest类后的提交" />
     <MESSAGE value="这是myrepositoryfour工程添加three包、MyThreeTest类后的提交" />
     <MESSAGE value="这是myrepositoryfour工程添加four包、MyFourTest类后的提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是myrepositoryfour工程添加four包、MyFourTest类后的提交" />
+    <MESSAGE value="这是myrepositoryfour工程修改MyThreeTest类、添加anotherthree包、ThreeTest类后的提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是myrepositoryfour工程修改MyThreeTest类、添加anotherthree包、ThreeTest类后的提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/my/TestTwo.java">
@@ -375,11 +407,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/two/TwoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/anotherkey/TestThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/four/MyFourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -402,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/anotherthree/ThreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/three/MyThreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -416,28 +463,6 @@
           <folding>
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/TwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/four/MyFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
           </folding>
         </state>
       </provider>
