@@ -7,5 +7,8 @@ public class MyFiveTest {
 
     public static void main(String args[]){
         System.out.print("这是five包下的MyFiveTest类的输出语句！Hello Five");
+        int i=1;
+        System.out.print(i);
+
     }
 }
