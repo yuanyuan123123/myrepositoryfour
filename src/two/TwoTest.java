@@ -6,5 +6,7 @@ package two;
 public class TwoTest {
     public static void main(String args[]){
         System.out.print("这是two包下的TwoTest类的输出语句！");
+        int two=3;
+        System.out.print(two);
     }
 }
