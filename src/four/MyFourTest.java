@@ -6,5 +6,7 @@ package four;
 public class MyFourTest {
     public static void main(String args[]){
         System.out.print("这是Four包下的MyFourTest类的输出语句！Hello Four");
+        int four=2;
+        System.out.println(four);
     }
 }
