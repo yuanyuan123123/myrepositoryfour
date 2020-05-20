@@ -10,6 +10,8 @@ public class FourTest {
 
     public static void main(String args[]){
         System.out.print("这是anotherfour包下的FourTest类的输出语句！");
+        int a=9;
+        System.out.print(a);
     }
 
 }
