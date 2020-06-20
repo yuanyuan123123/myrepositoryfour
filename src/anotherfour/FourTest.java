@@ -12,6 +12,7 @@ public class FourTest {
         System.out.print("这是anotherfour包下的FourTest类的输出语句！");
         int a=9;
         System.out.print(a);
+        System.out.print(" mihao");
     }
 
 }
