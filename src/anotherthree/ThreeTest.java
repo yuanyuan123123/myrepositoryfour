@@ -10,5 +10,6 @@ public class ThreeTest {
 
     public static void main(String args[]){
         System.out.print("这是anotherthree包下的ThreeTest类的输出语句！");
+        System.out.print("anotherthree");
     }
 }
