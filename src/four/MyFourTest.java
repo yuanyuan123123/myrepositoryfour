@@ -9,5 +9,6 @@ public class MyFourTest {
         int four=2;
         System.out.println(four);
         System.out.println("nihaoya");
+        System.out.println("nihaoya1");
     }
 }
