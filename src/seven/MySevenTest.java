@@ -6,6 +6,7 @@ package seven;
 public class MySevenTest {
 
     public static void main(String args[]){
-        System.out.print("这是seven包下的MySevenTest类的输出语句！");
+        System.out.println("这是seven包下的MySevenTest类的输出语句！");
+        System.out.println("11");
     }
 }
