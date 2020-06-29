@@ -10,5 +10,6 @@ public class FiveTest {
 
     public static void main(String args[]){
         System.out.print("这是anotherfive包下的FiveTest类的输出语句！");
+        System.out.print("输出语句！");
     }
 }
