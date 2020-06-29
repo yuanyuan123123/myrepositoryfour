@@ -10,5 +10,6 @@ public class MySevenTest {
         System.out.println("11");
 
         System.out.println("456");
+        System.out.println("890");
     }
 }
