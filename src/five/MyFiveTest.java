@@ -10,6 +10,7 @@ public class MyFiveTest {
         int i=1;
         System.out.print(i);
         System.out.print("zheshishei");
+        System.out.print("11");
 
     }
 }
