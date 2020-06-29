@@ -10,5 +10,6 @@ public class MyEightTest {
         int eight=4;
         System.out.print(eight);
         System.out.println("123");
+        System.out.println("123");
     }
 }
