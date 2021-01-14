@@ -3,20 +3,20 @@ package five;
 /**
  * @ProjectName: myrepositoryfour
  * @Package: five
- * @ClassName: ClassesOne
+ * @ClassName: Classes
  * @Author: suihaiying
  * @Description:
- * @createDate 2021/01/14 16:59
+ * @createDate 2021/01/14 16:19
  */
 public class ClassesOne {
 
-    private String c;
+    private String b;
 
-    public String getC() {
-        return c;
+    public String getB() {
+        return b;
     }
 
-    public void setC(String c) {
-        this.c = c;
+    public void setB(String b) {
+        this.b = b;
     }
 }
