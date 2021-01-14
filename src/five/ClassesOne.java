@@ -9,7 +9,7 @@ package five;
  * @createDate 2021/01/14 16:19
  */
 public class ClassesOne {
-
+    private String a;
     private String b;
 
     public String getB() {
