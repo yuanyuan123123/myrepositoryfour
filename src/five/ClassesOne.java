@@ -11,7 +11,11 @@ package five;
 public class ClassesOne {
     private String a;
     private String b;
+<<<<<<< HEAD
     private String g;
+=======
+    private String f;
+>>>>>>> a51d5df72b669b79dc0e6dc85b5b878b1e503e72
 
     public String getB() {
         return b;
