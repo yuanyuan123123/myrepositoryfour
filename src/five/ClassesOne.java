@@ -11,7 +11,7 @@ package five;
 public class ClassesOne {
     private String a;
     private String b;
-    private String d;
+    private String g;
 
     public String getB() {
         return b;
