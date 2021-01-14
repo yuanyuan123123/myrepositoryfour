@@ -12,6 +12,7 @@ public class MyFiveTest {
         System.out.print("zheshishei");
         System.out.print("11");
         System.out.println("22");
+        System.out.println("44");
 
     }
 }
